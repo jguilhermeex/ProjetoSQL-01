@@ -4,8 +4,7 @@
 ### As queries tinham o objetivo de responder as seguintes perguntas:
 
 
-
-## Receita
+Receita
 Ticket Médio
 Leads
 Conversão de Leads
