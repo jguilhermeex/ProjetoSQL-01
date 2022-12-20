@@ -4,10 +4,4 @@
 ### As queries tinham o objetivo de responder as seguintes perguntas:
 
 
-Receita
-Ticket Médio
-Leads
-Conversão de Leads
-Top 5 Marcas que mais venderam
-Top 5 Lojas que mais venderam
-Visitas ao site por dia da semana e pelo mês
+Receita, Ticket Médio, Leads, Conversão de Leads, Top 5 Marcas que mais venderam, Top 5 Lojas que mais venderam, Visitas ao site por dia da semana e pelo mês
