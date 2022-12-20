@@ -1,6 +1,6 @@
-#Projeto de análise de dados
+Projeto de análise de dados
 
-##Este projeto final visa usar a linguagem SQL para responder determinadas perguntas e consequentemente resolver problemas de negócio, auxiliando a tomada de decisão.
+Este projeto final visa usar a linguagem SQL para responder determinadas perguntas e consequentemente resolver problemas de negócio, auxiliando a tomada de decisão.
 As queries tinham o objetivo de responder as seguintes perguntas:
 
 
