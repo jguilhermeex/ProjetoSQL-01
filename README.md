@@ -10,7 +10,7 @@ Este projeto explora os dados fictícios de vendas de veículos através de cons
 - A taxa de conversão e os leads estão aumentando.
 - A marca Chevrolet é a lider de vendas no mês de agosto/21
 - A loja Kiyoko foi a lider de vendas do mês de agosto/21
-- São paulo é o estado que mais vendeu.
+- São Paulo é o estado que mais vendeu.
 - Domingo é o dia com menos visitas e segunda feira é o dia com mais visitas as lojas.
 
 # Dashboard
