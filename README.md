@@ -1,4 +1,4 @@
-# Projeto de análise de dados - Análise de um e-commerce de venda de veículos
+# Projeto de análise de dados - Análise de um E-commerce de venda de veículos
 ![car-g13f712eec_640](https://user-images.githubusercontent.com/120759992/211122727-f9c3f268-5a58-4e04-a5ac-198a25d7153d.jpg)
 
 
