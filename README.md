@@ -4,7 +4,7 @@
 
 # Objetivo
 
-Este projeto explora os dados fictícios de uma empresa de vendas de carros através de consultas SQL básicas e avançadas para responder as perguntas de negócio deste projeto. Após a conclusão da exploração dos dados, as consultas foram usadas para criar um dashboard no Excel para melhor visualização dos dados. O dashboard leva em consideração o último mês de vendas, que neste dataset foi o mês de agosto.O SGBD usado foi o PostGreSQL.
+Este projeto explora os dados fictícios de uma empresa de vendas de carros através de consultas SQL básicas e avançadas para responder as perguntas de negócio deste projeto. Após a conclusão da exploração dos dados, as consultas foram usadas para criar um dashboard no Excel para melhor visualização dos dados. O dashboard leva em consideração o último mês de vendas, que neste dataset foi o mês de agosto de 2021.O SGBD usado foi o PostGreSQL.
 
 # Conclusões
 - A taxa de conversão e os leads estão aumentando.
