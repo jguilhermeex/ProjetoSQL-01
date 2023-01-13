@@ -7,6 +7,7 @@
 Este projeto explora os dados fictícios de vendas de veículos através de consultas SQL básicas e avançadas para responder as perguntas de negócio deste projeto. Após a conclusão da exploração dos dados, as consultas foram usadas para criar um dashboard no Excel para melhor visualização dos dados. O dashboard leva em consideração o último mês de vendas, que neste dataset foi o mês de agosto de 2021.O SGBD usado foi o PostGreSQL.
 
 # Conclusões
+- A receita vem aumentando e a taxa de conversão de leads ficou em estabilidade no últimos meses analisados.
 - A taxa de conversão e os leads estão aumentando.
 - A marca Chevrolet é a lider de vendas no mês de agosto/21
 - A loja Kiyoko foi a lider de vendas do mês de agosto/21
