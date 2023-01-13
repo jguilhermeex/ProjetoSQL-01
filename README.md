@@ -17,3 +17,6 @@ Este projeto explora os dados fictícios de vendas de veículos através de cons
 # Dashboard
 
 <img width="931" alt="Dash" src="https://user-images.githubusercontent.com/120759992/211122786-8e254e92-010d-44e8-adde-19083d448821.png">
+
+# Créditos
+[Midori Toyota - Cliquei Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
