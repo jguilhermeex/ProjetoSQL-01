@@ -14,7 +14,7 @@ Os dados se encontram em 9 tabelas diferentes. Abaixo, o modelo de relacionament
 
 # Softwares utilizados
 - PostGreSQL
-- MicrosoftExcel
+- Microsoft Excel
 
 
 # Conclusões
