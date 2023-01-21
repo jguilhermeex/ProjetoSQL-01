@@ -26,7 +26,7 @@ Os dados se encontram em 9 tabelas diferentes. Abaixo, o modelo de relacionament
 - Microsoft Excel
 
 # Consultas
-As consultas podem ser visualizadas aqui [Clique Aqui](PortfolioCurso.sql)
+As consultas podem ser visualizadas[aqui](PortfolioCurso.sql)
 
 
 # Conclusões
