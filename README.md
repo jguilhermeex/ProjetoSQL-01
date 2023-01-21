@@ -25,6 +25,9 @@ Os dados se encontram em 9 tabelas diferentes. Abaixo, o modelo de relacionament
 - PostGreSQL (pgAdmin 4)
 - Microsoft Excel
 
+# Consultas
+As consultas podem ser visualizadas aqui [Clique Aqui](PortfolioCurso.sql)
+
 
 # Conclusões
 - A receita vem aumentando e a taxa de conversão de leads tem oscilado e ficou em estabilidade no últimos meses analisados.
