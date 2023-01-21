@@ -42,4 +42,4 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 <img width="931" alt="Dash" src="https://user-images.githubusercontent.com/120759992/211122786-8e254e92-010d-44e8-adde-19083d448821.png">
 
 # Créditos
- Este projeto foi ensinado no curso da [Midori Toyota - Clique Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
+ [Midori Toyota - Clique Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
