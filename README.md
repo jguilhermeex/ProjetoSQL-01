@@ -22,7 +22,7 @@ Os dados se encontram em 9 tabelas diferentes. Abaixo, o modelo de relacionament
 ![Diagrama+img](https://user-images.githubusercontent.com/120759992/213865160-1274c252-dda2-480a-882f-14bf24ba1b3a.PNG)
 
 # Softwares utilizados
-- PostGreSQL
+- PostGreSQL (pgadmin4)
 - Microsoft Excel
 
 
