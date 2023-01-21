@@ -10,7 +10,8 @@ Este projeto explora os dados fictícios de vendas de veículos através de cons
 - Taxa de Conversão de Leads
 - Marcas que mais venderam
 - Estados que mais venderam
-- Dias que mais venderam (Considerando o último mês de venda)
+- Lojas que mais venderam
+- Número de visitas ao site considerando o último mês de venda
 
 Após a conclusão da exploração dos dados, as consultas foram usadas para criar um dashboard no Excel para melhor visualização dos dados.
 
