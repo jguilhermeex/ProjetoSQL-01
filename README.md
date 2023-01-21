@@ -27,7 +27,7 @@ Os dados se encontram em 9 tabelas diferentes. Abaixo, o modelo de relacionament
 
 
 # Conclusões
-- A receita vem aumentando e a taxa de conversão de leads ficou em estabilidade no últimos meses analisados.
+- A receita vem aumentando e a taxa de conversão de leads tem oscilado e ficou em estabilidade no últimos meses analisados.
 - A taxa de conversão e os leads estão aumentando.
 - A marca Chevrolet é a lider de vendas no mês de agosto/21
 - A loja Kiyoko foi a lider de vendas do mês de agosto/21
