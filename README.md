@@ -28,6 +28,10 @@ Os dados se encontram em 9 tabelas diferentes. Abaixo, o modelo de relacionament
 # Consultas
 As consultas podem ser visualizadas neste repositório. [Clique aqui para visualizar](PortfolioCurso.sql)
 
+# Dashboard
+
+<img width="931" alt="Dash" src="https://user-images.githubusercontent.com/120759992/211122786-8e254e92-010d-44e8-adde-19083d448821.png">
+
 
 # Conclusões
 - A receita vem aumentando e a taxa de conversão de leads tem oscilado e ficou em estabilidade no últimos meses analisados.
@@ -37,9 +41,7 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 - São Paulo é o estado que mais vendeu.
 - Domingo é o dia com menos visitas e segunda feira é o dia com mais visitas ao site.
 
-# Dashboard
 
-<img width="931" alt="Dash" src="https://user-images.githubusercontent.com/120759992/211122786-8e254e92-010d-44e8-adde-19083d448821.png">
 
 # Créditos
  [Midori Toyota - Clique Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
