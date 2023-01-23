@@ -43,5 +43,5 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 
 
 
-# Créditos
+# Agradecimentos
  [Midori Toyota - Clique Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
