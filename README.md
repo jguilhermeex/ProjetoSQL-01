@@ -41,7 +41,10 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 - São Paulo é o estado que mais vendeu.
 - Domingo é o dia com menos visitas e segunda feira é o dia com mais visitas ao site.
 
-
+# Recomendações ao tomador de decisão
+-- As campanhas de marketing tem funcionado, visto que mais leads estão chegando ao site. Um investimento maior seria interessante para converter mais leads em vendas.
+-- O estado de SP é líder de vendas, porém, os outros estados estão muito abaixo. Um investimento maior poderia atrair mais clientes.
+-- Domingo recebe pouquíssimas visitas em comparação com os outros dias. Entender a razão disso seria essencial, pois ele se mostra um outlier ( valor fora da curva).
 
 # Agradecimentos
  [Midori Toyota - Clique Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
