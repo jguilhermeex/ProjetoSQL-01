@@ -47,5 +47,4 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 - O estado de SP é líder de vendas, porém, os outros estados estão muito abaixo. Um investimento maior poderia atrair mais clientes.
 - Domingo recebe pouquíssimas visitas em comparação com os outros dias. Entender a razão disso seria essencial, pois ele se mostra um outlier ( valor fora da curva).
 
-# Agradecimentos
- [Midori Toyota - Clique Aqui](https://www.udemy.com/course/sql-para-analise-de-dados/)
+
