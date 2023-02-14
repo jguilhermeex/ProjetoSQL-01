@@ -43,6 +43,7 @@ As consultas podem ser visualizadas neste repositório. [Clique aqui para visual
 
 # Recomendações ao tomador de decisão
 - As campanhas de marketing tem funcionado, visto que mais leads estão chegando ao site. Um investimento maior seria interessante para converter mais leads em vendas.
+- Um investimento em contratação de mais vendedores é válida para atender a demanda de leads em crescimento e consequentemente obter uma maior taxa de conversão.
 - O estado de SP é líder de vendas, porém, os outros estados estão muito abaixo. Um investimento maior poderia atrair mais clientes.
 - Domingo recebe pouquíssimas visitas em comparação com os outros dias. Entender a razão disso seria essencial, pois ele se mostra um outlier ( valor fora da curva).
 
