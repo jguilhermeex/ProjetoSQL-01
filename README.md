@@ -1,6 +1,5 @@
 # Projeto de análise de dados - Análise de um E-commerce de venda de veículos
-<div style="display: flex; justify-content: space-between;"> <br>
-<img align="center"height="350" alt="coding-time" width = 1000 src="Imagem_Projeto_1.jpg">
+
 
 
 
