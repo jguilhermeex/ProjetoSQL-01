@@ -1,4 +1,4 @@
-# Projeto de análise de dados - Análise de um E-commerce de venda de veículos
+# Projeto de Análise de Dados - Análise de um E-commerce de Venda de Veículos
 <div style="display: flex; justify-content: space-between;"> <br>
 <img align="center"height="400" alt="coding-time" width = 1000 src="Carro.jpg">
 
